@@ -1,0 +1,43 @@
+blue|COLOR
+black|COLOR, BRAND
+violet|COLOR
+pink|COLOR
+red|COLOR
+yellow|COLOR
+orange|COLOR
+white|COLOR
+grey|COLOR
+green|COLOR
+black and white|COLOR
+black & white|COLOR
+
+mens|GENDER
+man|GENDER
+men's|GENDER
+men|GENDER
+guys|GENDER
+boy|GENDER
+boys|GENDER
+boy's|GENDER
+women|GENDER
+woman|GENDER
+women's|GENDER
+woman's|GENDER
+girl|GENDER
+girls|GENDER
+girl'|GENDER
+male|GENDER
+males|GENDER
+male's|GENDER
+female|GENDER
+female's|GENDER
+females|GENDER
+
+blue jeans|BRAND
+apple|BRAND
+levi's|BRAND
+levis|BRAND
+black and decker|BRAND
+black & decker|BRAND
+us polo assn|BRAND
+us polo|BRAND

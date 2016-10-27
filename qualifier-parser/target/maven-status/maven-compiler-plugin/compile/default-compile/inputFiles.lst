@@ -1,0 +1,12 @@
+/media/abhishek/B0187BFF187BC2C0/Workspace/GitProjects/qualifier-parser/src/main/java/com/adatar/qp/cache/CacheManager.java
+/media/abhishek/B0187BFF187BC2C0/Workspace/GitProjects/qualifier-parser/src/main/java/com/adatar/qp/main/QPService.java
+/media/abhishek/B0187BFF187BC2C0/Workspace/GitProjects/qualifier-parser/src/main/java/com/adatar/qp/parser/QualifierParserComponent.java
+/media/abhishek/B0187BFF187BC2C0/Workspace/GitProjects/qualifier-parser/src/main/java/com/adatar/qp/conf/QPConfiguration.java
+/media/abhishek/B0187BFF187BC2C0/Workspace/GitProjects/qualifier-parser/src/main/java/com/adatar/qp/parser/QualifierParser.java
+/media/abhishek/B0187BFF187BC2C0/Workspace/GitProjects/qualifier-parser/src/main/java/com/adatar/qp/main/QPHandler.java
+/media/abhishek/B0187BFF187BC2C0/Workspace/GitProjects/qualifier-parser/src/main/java/com/adatar/qp/parser/ColorParser.java
+/media/abhishek/B0187BFF187BC2C0/Workspace/GitProjects/qualifier-parser/src/main/java/com/adatar/qp/parser/SizeParser.java
+/media/abhishek/B0187BFF187BC2C0/Workspace/GitProjects/qualifier-parser/src/main/java/com/adatar/qp/parser/Slate.java
+/media/abhishek/B0187BFF187BC2C0/Workspace/GitProjects/qualifier-parser/src/main/java/com/adatar/qp/parser/BrandParser.java
+/media/abhishek/B0187BFF187BC2C0/Workspace/GitProjects/qualifier-parser/src/main/java/com/adatar/qp/parser/GenderParser.java
+/media/abhishek/B0187BFF187BC2C0/Workspace/GitProjects/qualifier-parser/src/main/java/com/adatar/qp/response/ServiceResponse.java

@@ -1,0 +1,12 @@
+com/adatar/qp/parser/BrandParser.class
+com/adatar/qp/parser/QualifierParserComponent.class
+com/adatar/qp/cache/CacheManager.class
+com/adatar/qp/response/ServiceResponse.class
+com/adatar/qp/main/QPHandler.class
+com/adatar/qp/parser/QualifierParser.class
+com/adatar/qp/parser/SizeParser.class
+com/adatar/qp/parser/GenderParser.class
+com/adatar/qp/parser/ColorParser.class
+com/adatar/qp/conf/QPConfiguration.class
+com/adatar/qp/main/QPService.class
+com/adatar/qp/parser/Slate.class
